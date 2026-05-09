@@ -1,0 +1,4 @@
+C:/Projects/C++/SF/chat_network/tcp/build_mingw/CMakeFiles/tcp_server.dir
+C:/Projects/C++/SF/chat_network/tcp/build_mingw/CMakeFiles/tcp_client.dir
+C:/Projects/C++/SF/chat_network/tcp/build_mingw/CMakeFiles/edit_cache.dir
+C:/Projects/C++/SF/chat_network/tcp/build_mingw/CMakeFiles/rebuild_cache.dir
