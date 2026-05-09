@@ -1,0 +1,125 @@
+# Build directories (ваши папки сборки)
+build/
+build_mingw/
+build_msvc/
+bin/
+bin_mingw/
+bin_msvc/
+.vs/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# Specific build paths для вашей структуры
+scripts/windows/build/
+scripts/windows/bin/
+scripts/linux/build/
+scripts/linux/bin/
+
+# Compiled files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+*.idb
+*.ilk
+*.exp
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CMakeUserPresets.json
+*.cmake
+!CMakeLists.txt
+
+# Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# CLion / IDEA
+.idea/
+*.iml
+
+# Linux files
+*.out
+*.err
+core.*
+*.core
+
+# Windows files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+*.cache
+*.lock
+
+# Backup files
+*.bak
+*.backup
+*.old
+*~
+
+# Scripts output
+scripts/*.log
+scripts/**/*.log
+
+# User-specific files
+*.local
+*.user
+
+# Archive files
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# MinGW / MSYS2
+mingw32/
+mingw64/
+msys/
+usr/
+
+# Python (если будут скрипты)
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Test files
+test/
+tests/
+*.test
